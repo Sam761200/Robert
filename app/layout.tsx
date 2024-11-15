@@ -1,6 +1,6 @@
 'use client'
 
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { SessionProvider } from "next-auth/react"; // Importer SessionProvider
 import "./globals.css";

@@ -60,7 +60,7 @@ export default function RegisterPage() {
         </div>
         {error && <p className="text-red-500 text-sm mb-4">{error}</p>}
         <button type="submit" className="w-full p-2 bg-[#27AE60] text-white font-semibold rounded-lg shadow-md hover:bg-[#1B4332] transition-all duration-300">
-          S'inscrire
+          S&apos;inscrire
         </button>
       </form>
       <p className="mt-4">
